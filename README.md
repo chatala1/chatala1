@@ -5,7 +5,6 @@
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/chatala1/stats)
 ![Github Highlights](https://greptile-stats.vercel.app/api/widget/chatala1/highlights)
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/chatala1/contributions)
-![Github Archetype](https://greptile-stats.vercel.app/api/widget/chatala1/archtype)
 ![Github Quirk](https://greptile-stats.vercel.app/api/widget/chatala1/quirk)
 
 
